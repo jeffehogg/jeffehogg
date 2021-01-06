@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm [Jeff Hogg](https://bosshogg86.github.io/portfolio/), a Full Stack Developer 🚀 based in Northern CA.
+I'm [Jeff Hogg](https://bosshogg86.github.io/portfolio/), a Web Developer 🚀 based in Northern CA.
 <br />
 
 <a href="https://www.linkedin.com/in/jeffhogg/">
