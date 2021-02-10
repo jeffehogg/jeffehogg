@@ -9,5 +9,5 @@ I'm [Jeff Hogg](https://bosshogg86.github.io/portfolio/), a Web Developer 🚀 b
 
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bosshogg86&show_icons=true&theme=dark" alt="bosshogg86" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffhogg86&show_icons=true&theme=dark" alt="jeffhogg86" />
 
