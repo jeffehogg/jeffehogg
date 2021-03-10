@@ -1,6 +1,7 @@
 ### Hi 👋
 I'm [Jeff Hogg](https://bosshogg86.github.io/portfolio/), a Web Developer 🚀 based in Northern CA.
 <br />
+<br />
 Currently, I am working with Next.js, React, TypeScript and Python.
 
 <a href="https://www.linkedin.com/in/jeffhogg/">
