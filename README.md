@@ -4,18 +4,20 @@
 
 ### Connect 📱
 
- <a href="https://www.linkedin.com/in/jeffhogg/">
-  <img align="left" alt="Jeff's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  https://www.linkedin.com/in/jeffhogg
-</a>
-
-</br>
-</n>
-
-<a href="https://www.twitter.com/jeffehogg">
-  <img align="left" alt="Jeff's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  https://www.twitter.com/jeffehogg
-</a>
+ <ul>
+    <li>
+      <a href="https://www.linkedin.com/in/jeffhogg/">
+        <img align="left" alt="Jeff's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        https://www.linkedin.com/in/jeffhogg
+      </a>
+    </li>
+    <li>
+      <a href="https://www.twitter.com/jeffehogg">
+        <img align="left" alt="Jeff's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+        https://www.twitter.com/jeffehogg
+      </a>
+    </li>
+  </ul>
 
 ### Skills 🔧
 
