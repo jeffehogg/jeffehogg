@@ -12,5 +12,5 @@ Currently, I am working with Next.js, React, TypeScript and Python.
 <br />
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffhogg86&show_icons=true&theme=dark" alt="jeffhogg86" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffehogg&show_icons=true&theme=dark" alt="jeffehogg" />
 
