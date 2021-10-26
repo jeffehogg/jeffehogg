@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffehogg&show_icons=true&theme=dark" alt="jeffehogg" />
-
 ### About Me 📝
 
 👋 I'm [Jeff Hogg](https://jeffehogg.com), a Full Stack Developer 🚀 based in the San Francisco Bay Area. I love building and learning new things.
@@ -28,3 +26,5 @@ I have a wide range of skills, ranging from front-end, to back-end, to full stac
 - [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffehogg&show_icons=true&theme=dark" alt="jeffehogg" />
