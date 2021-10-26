@@ -28,5 +28,3 @@ I have a wide range of skills, ranging from front-end, to back-end, to full stac
 - [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
-
-### Projects 💻
