@@ -27,9 +27,11 @@
 
 ### Skills 🔧
 
-
+<div align='center' >
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt='js'> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt='node'> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt='react'><img src="https://media.giphy.com/media/SqZFDec4yTwXdwoaFY/giphy.gif" width="100" alt='fullstack'>
+<p></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffehogg&layout=compact&theme=dark)](https://github.com/jeffehogg/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jeffehogg&show_icons=true&theme=dark" alt="jeffehogg" />
+</div>
