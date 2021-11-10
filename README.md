@@ -1,35 +1,16 @@
-### About Me 📝
+## Hey! I'm Jeff Hogg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-👋 </br>I'm [Jeff Hogg](https://jeffehogg.com), a Full Stack Developer based in the San Francisco Bay Area. I love building and learning new things.
+I'm a Full Stack Developer based in the San Francisco Bay Area. I love building and learning new things.
+<a href="https://jeffehogg.com">
+jeffehogg.com
+</a>
 
-### Let's Connect 📱
+[![GitHub jeffehogg](https://img.shields.io/github/followers/jeffehogg?label=follow&style=social)](https://github.com/jeffehogg)
+[![Linkedin: Jeff Hogg](https://img.shields.io/badge/-Hogg%20Jeff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffhogg/)](https://www.linkedin.com/in/jeffhogg/)
+[![Twitter: Jeff Hogg](https://img.shields.io/twitter/follow/jeffehogg?style=social)](https://twitter.com/jeffehogg)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jeffehogg&left_color=gray&right_color=blue)
 
- <ul>
- <li>
-      <a href="https://jeffehogg.com">
-        <img align="left" alt="Jeff's LinkdeIn" width="22px" src="https://jeffehogg.com/favicon.ico" />
-        jeffehogg.com
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/jeffhogg/">
-        <img align="left" alt="Jeff's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-        LinkedIn
-      </a>
-    </li>
-    <li>
-      <a href="https://www.twitter.com/jeffehogg">
-        <img align="left" alt="Jeff's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-        Twitter
-      </a>
-    </li>
-  </ul>
-
-### Skills 🔧
-
-<div align='center' >
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt='js'> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt='node'> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt='react'><img src="https://media.giphy.com/media/SqZFDec4yTwXdwoaFY/giphy.gif" width="100" alt='fullstack'>
-<p></p>
+## Skills 🔧
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffehogg&layout=compact&theme=dark)](https://github.com/jeffehogg/github-readme-stats)
 
