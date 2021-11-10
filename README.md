@@ -1,6 +1,6 @@
 ## Hey! I'm Jeff Hogg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a full-stack developer with a background in broadcast television. I've worked with a wide variety of technologies and have a broad understanding of the full stack. I'm currently working with React, Next.js, Tailwind, and more.
+I'm a full-stack developer with a background in broadcast television. I've worked with a wide variety of technologies and have a broad understanding of the full stack. Frontend focused and currently working with React, Next.js, Tailwind, and more.
 
 <br>
 
