@@ -1,6 +1,7 @@
 ## Hey! I'm Jeff Hogg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a Full Stack Developer based in the San Francisco Bay Area. I love building and learning new things.
+<nl/>
 <a href="https://jeffehogg.com">
 jeffehogg.com
 </a>
